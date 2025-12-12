@@ -37,7 +37,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url('https://nanobanana.io/images/ff00ff/00ff00/256/256');
+    background-image: url('https://nanobanana.io/images/ff00ff/ff0000/256/256');
     background-size: cover;
     background-position: center;
     padding: 20px;
@@ -45,7 +45,7 @@
 
   h1 {
     font-size: 3em;
-    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
   }
 
   .form-group {
@@ -58,16 +58,16 @@
     display: block;
     margin-bottom: 5px;
     font-size: 1.2em;
-    text-shadow: 0 0 5px #00ff00;
+    text-shadow: 0 0 5px #ff0000;
   }
 
   input[type="number"],
   input[type="range"] {
     width: 100%;
     padding: 10px;
-    border: 1px solid #00ff00;
+    border: 1px solid #ff0000;
     background-color: rgba(0, 0, 0, 0.5);
-    color: #00ff00;
+    color: #ff0000;
     border-radius: 5px;
   }
 
@@ -76,7 +76,7 @@
     appearance: none;
     height: 10px;
     border-radius: 5px;
-    background: #00ff00;
+    background: #ff0000;
     outline: none;
     opacity: 0.7;
     -webkit-transition: .2s;
@@ -89,22 +89,22 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #00ff00;
+    background: #ff0000;
     cursor: pointer;
-    box-shadow: 0 0 10px #00ff00;
+    box-shadow: 0 0 10px #ff0000;
   }
 
   input[type="range"]::-moz-range-thumb {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #00ff00;
+    background: #ff0000;
     cursor: pointer;
-    box-shadow: 0 0 10px #00ff00;
+    box-shadow: 0 0 10px #ff0000;
   }
 
   h2 {
     font-size: 2em;
-    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00;
+    text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
   }
 </style>
